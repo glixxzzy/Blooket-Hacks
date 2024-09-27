@@ -1,3 +1,4 @@
+JavaScript:
 (async () => {
     let n = document.createElement('iframe');
     document.body.append(n);
